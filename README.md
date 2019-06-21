@@ -1,8 +1,8 @@
 # tag-search
 
 ## Steps to Run the project
-npm install
-npm start
+1. npm install
+2. npm start
 
 ## App Behaviour
 1. The input box is configureable to some extent,
