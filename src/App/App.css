@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+.app-wrapper {
+    position: relative;
+    height: 100vh;
+    /* text-align: center; */
+}
